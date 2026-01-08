@@ -1,0 +1,9 @@
+{
+	"name": "adfsumanthprctce",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "953546d6-a501-4875-9ed6-139fa9775dab",
+		"tenantId": "15871b63-9c9f-4162-8152-3eb4f6bf8f82"
+	}
+}
